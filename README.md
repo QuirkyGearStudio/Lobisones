@@ -8,4 +8,5 @@ The cast is a pack of wolves with wildly different personalities: energetic, shy
 Three games are in active development for iOS: Cartas, a memory match game; Pelota, a Simon Says ball-passing game; and Reunión, a sequence memory game with different scenarios.
 Lobisones was designed for children and the elderly, and ended up being for everyone.
 Status
-🐺 Active development — building in public, one weekend at a time.
+Active development — building in public, one weekend at a time.
+SpriteKit!
